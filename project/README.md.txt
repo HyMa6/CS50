@@ -1,7 +1,5 @@
 ﻿Title - Updating monthly customer group invoice using python.
-Name – Hye 
-City – Helsinki
-Country – Finland
+YOUTUBE file is uploaded
 
 CS50's Introduction to Computer Science 
 Harvard University 
