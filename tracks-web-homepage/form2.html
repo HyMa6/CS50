@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
+        <link href="styles.css" rel="stylesheet">
+        <title>My Webpage</title>
+        <script>
+            function greet()
+            {
+                let name = document.querySelector('#name').value;
+                if (name === '')
+                {
+                    name = 'no name'
+                }
+                document.querySelector('#result').innerHTML='Hello, '+ name + '!';
+            }
+        </script>
+    </head>
+    <body>
+        <h4>What is your name ?</h4>
+        <form onsubmit="greet(); return false;">
+            <input type="text" id="name">
+            <input type="submit" value ="Submit Form">
+
+        </form>
+        <div id="result">
+            Hello!
+        </div>
+    </body>
+</html>

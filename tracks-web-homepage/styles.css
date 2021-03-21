@@ -1,0 +1,33 @@
+            .blue
+            {
+                color:blue;
+            }
+            .center
+            {
+                text-align:center;
+            }
+                        .title
+            {
+                text-align:center;
+                color:blue;
+                font-family:Sans-serif;
+            }
+            table
+            {
+                border:1px solid black;
+            }
+            td
+            {
+                border:1px solid black;
+                padding:5px;
+            }
+            th
+            {
+                background-color:LightGray;
+                border:1px solid black;
+                padding:5px;
+            }
+            a
+            {
+                text-decoration: underline;
+            }

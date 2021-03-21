@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
+        <link href="styles.css" rel="stylesheet">
+        <title>geolocation</title>
+
+    </head>
+    <body>
+        <script>
+            navigator.geolocation.getCurrentPosition(function(position){
+               document.write(position.coords.latitude + ','+ position.coords.longitude)
+            });
+
+        </script>
+    </body>
+</html>
