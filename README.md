@@ -1,5 +1,6 @@
 # CS50<br /> 
 CS50's Introduction to Computer Science course work<br /> 
+<br /> 
 DURATION<br /> 
 11 weeks long<br /> 
 TIME COMMITMENT<br /> 
