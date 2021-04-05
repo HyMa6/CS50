@@ -3,12 +3,16 @@ CS50's Introduction to Computer Science course work<br />
 <br /> 
 DURATION<br /> 
 11 weeks long<br /> 
+
 TIME COMMITMENT<br /> 
 10-20 hours per week<br /> 
+
 PACE<br /> 
 Self-paced<br /> 
+
 SUBJECT<br /> 
 Programming<br /> 
+
 COURSE LANGUAGE<br /> 
 English<br /> 
 
